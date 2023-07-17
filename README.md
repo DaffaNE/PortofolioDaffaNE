@@ -1,7 +1,6 @@
 # Welcome to my Portfolio !
-<i>Made by Daffa Nurhata Erlangga in 2023</i>
-<p>Welcome to my Portofolio GITHUB Page</p>
-<hr>
+<i text-align="center">Made by Daffa Nurhata Erlangga in 2023</i>
+<p text-align="center">Welcome to my Portofolio GitHub Page</p>
 <h2>Table of Contents</h2>
 <ul>
     <li>About Me</li>
@@ -11,15 +10,15 @@
     <li>Contact Me</li>
 </ul>
 <h2>Tech Stack</h2>
-<li>
-    <ul>React.js</ul>
-    <ul>Tailwind CSS</ul>
-    <ul>Bootstrap</ul>
-</li>
+<ul>
+    <li>React.js</li>
+    <li>Tailwind CSS</;>
+    <li>Bootstrap</li>
+</ul>
 <h2>Contact Me</h2>
-<li>
-    <ul>Instagram</ul>
-    <ul>[linkedin-url]: https://linkedin.com/in/othneildrew</ul>
-    <ul>Youtube</ul>
-</li>
+<ul>
+    <li>Instagram</li>
+    <li>linkedin</li>
+    <li>Youtube</li>
+</ul>
 
