@@ -4,13 +4,13 @@
 <hr>
 <h2>Table of Contents</h2>
 <hr>
-<li>
-    <ul>About Me</ul>
-    <ul>Work Experience</ul>
-    <ul>Past Projects</ul>
-    <ul>My Skills</ul>
-    <ul>Contact Me</ul>
-</li>
+<ul>
+    <li>About Me</li>
+    <li>Work Experience</li>
+    <li>Past Projects</li>
+    <li>My Skills</li>
+    <li>Contact Me</li>
+</ul>
 <hr>
 <h2>Tech Stack</h2>
 <hr>
